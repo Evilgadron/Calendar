@@ -9,7 +9,7 @@ A highly polished, interactive wall calendar component built to translate a stat
 
 ### 🔗 Links
 * **Live Demo:** [(https://calendar-nine-silk.vercel.app/)]
-* **Video Walkthrough:** [Insert Loom/YouTube Link Here]
+* **Video Walkthrough:** [(https://drive.google.com/file/d/1sF2cRzOIGtzpcczsYcAHvJR8l54zxznG/view?usp=sharing)]
 
 ---
 
