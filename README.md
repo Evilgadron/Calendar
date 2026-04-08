@@ -8,7 +8,7 @@
 A highly polished, interactive wall calendar component built to translate a static design concept into a tactile, "God-made" web experience. This project goes beyond standard layouts by enforcing strict spatial constraints, hardware-accelerated animations, and a premium physical aesthetic.
 
 ### 🔗 Links
-* **Live Demo:** [Insert Vercel/Netlify Link Here]
+* **Live Demo:** [(https://calendar-nine-silk.vercel.app/)]
 * **Video Walkthrough:** [Insert Loom/YouTube Link Here]
 
 ---
