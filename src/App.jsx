@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import {
   format, startOfMonth, endOfMonth, eachDayOfInterval, getDay,
-  isSunday, setYear, setMonth, addMonths, subMonths, min, max,
+  isSunday, addMonths, subMonths, min, max,
   startOfDay, isToday, addYears, subYears
 } from 'date-fns';
-import { motion, AnimatePresence } from 'framer-motion';
+import { AnimatePresence } from 'framer-motion';
 import { 
   Trash2, Plus, X, SunMoon, ChevronLeft, ChevronRight, 
   Image as ImageIcon, Calendar as CalendarIcon
